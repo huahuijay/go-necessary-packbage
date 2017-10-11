@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+.idea/
+app.conf
+grpc/grpc
+config/.pubring.gpg
+config/.secring.gpg
+*.tar.gz
+/viper.iml

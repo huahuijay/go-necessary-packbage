@@ -1,0 +1,42 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;gopher&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/.." />
+      <root url="file://$PROJECT_DIR$/../../qiniupkg.com" />
+      <root url="file://$PROJECT_DIR$/../../.idea" />
+      <root url="file://$PROJECT_DIR$/../../wechat.v2" />
+      <root url="file://$PROJECT_DIR$/../../protobuf-master" />
+      <root url="file://$PROJECT_DIR$/../../workspace" />
+      <root url="file://$PROJECT_DIR$/../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../github.com" />
+      <root url="file://$PROJECT_DIR$/../../microservice-gokit-scaffolder" />
+      <root url="file://$PROJECT_DIR$/../../scaffold" />
+      <root url="file://$PROJECT_DIR$/../../google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../../pb" />
+      <root url="file://$PROJECT_DIR$/../../google" />
+      <root url="file://$PROJECT_DIR$/../../flower" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/.." />
+      <root url="file://$PROJECT_DIR$/../../qiniupkg.com" />
+      <root url="file://$PROJECT_DIR$/../../.idea" />
+      <root url="file://$PROJECT_DIR$/../../wechat.v2" />
+      <root url="file://$PROJECT_DIR$/../../protobuf-master" />
+      <root url="file://$PROJECT_DIR$/../../workspace" />
+      <root url="file://$PROJECT_DIR$/../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../github.com" />
+      <root url="file://$PROJECT_DIR$/../../microservice-gokit-scaffolder" />
+      <root url="file://$PROJECT_DIR$/../../scaffold" />
+      <root url="file://$PROJECT_DIR$/../../google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../../pb" />
+      <root url="file://$PROJECT_DIR$/../../google" />
+      <root url="file://$PROJECT_DIR$/../../flower" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
